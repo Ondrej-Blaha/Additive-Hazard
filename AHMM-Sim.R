@@ -25,7 +25,7 @@
 #          beta0: Treatment effect
 #          theta0: Clustering effect
 #          CV: Coefficient of variation
-#          tau: Duration of the study
+#          tau: Duration of the study (maximum follow-up time)
 #          m_bar: Average cluster size
 #          nsim_init: Desired number of simulations
 #          alpha: Desired type I error for the underlying test of parameters (z-test, t-test)
