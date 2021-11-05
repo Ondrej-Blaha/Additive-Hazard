@@ -30,7 +30,7 @@
 #          varMBN: Morel, Bokossa, and Neerchal type bias-corrected sandwich variance estimate
 #          n_cl: number of clusters
 
-# Example: Supplying the macro the following data: ID_ex=rep(1:6,3); X_ex=rep(c(rep(0,3),rep(1,3)),3); set.seed(67937163)
+# Example: Supplying the macro with the following data: ID_ex=rep(1:6,3); X_ex=rep(c(rep(0,3),rep(1,3)),3); set.seed(67937163)
 #          Y_ex=runif(length(ID_ex),min=0,max=3); Delta_ex=rbinom(length(ID_ex),1,0.3)
 #          yields the following results: survMix(ID=ID_ex,X=X_ex,Y=Y_ex,Delta=Delta_ex)
 #                 Estimate  BC0 (CZ)   BC1 (KC)   BC2 (MD)   BC3 (FG)  BC4 (MBN) # Clusters
