@@ -39,7 +39,7 @@
 
 # Example: Supplying the macro the below specified initial values:
 #          lambda0=4
-#          beta0<-beta_init=1.5
+#          beta0=beta_init=1.5
 #          theta0=0.5
 #          CV=0
 #          m_bar=10
