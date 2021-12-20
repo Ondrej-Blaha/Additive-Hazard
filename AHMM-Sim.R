@@ -126,9 +126,9 @@
 ######################
 require(pracma)
 require(Rfast)
-source("survMix_NEW.R")
-source("survPerm_NEW.R")
-source("Integrals_NEW.R")
+source("survMix.R")
+source("survPerm.R")
+source("Integrals.R")
 ##########################
 #Fixed Initial Parameters#
 ##########################
